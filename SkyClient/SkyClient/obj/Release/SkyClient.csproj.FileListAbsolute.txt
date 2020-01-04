@@ -1,0 +1,9 @@
+C:\Users\kafuuchino\Desktop\SkyClient\SkyClient\bin\Release\SkyClient.exe.config
+C:\Users\kafuuchino\Desktop\SkyClient\SkyClient\bin\Release\SkyClient.exe
+C:\Users\kafuuchino\Desktop\SkyClient\SkyClient\bin\Release\SkyClient.pdb
+C:\Users\kafuuchino\Desktop\SkyClient\SkyClient\obj\Release\SkyClient.FrmClient.resources
+C:\Users\kafuuchino\Desktop\SkyClient\SkyClient\obj\Release\SkyClient.Properties.Resources.resources
+C:\Users\kafuuchino\Desktop\SkyClient\SkyClient\obj\Release\SkyClient.csproj.GenerateResource.cache
+C:\Users\kafuuchino\Desktop\SkyClient\SkyClient\obj\Release\SkyClient.csproj.CoreCompileInputs.cache
+C:\Users\kafuuchino\Desktop\SkyClient\SkyClient\obj\Release\SkyClient.exe
+C:\Users\kafuuchino\Desktop\SkyClient\SkyClient\obj\Release\SkyClient.pdb

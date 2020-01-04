@@ -1,0 +1,9 @@
+C:\Users\kafuuchino\Desktop\SkyServer\SkyServer\bin\Release\SkyServer.exe.config
+C:\Users\kafuuchino\Desktop\SkyServer\SkyServer\bin\Release\SkyServer.exe
+C:\Users\kafuuchino\Desktop\SkyServer\SkyServer\bin\Release\SkyServer.pdb
+C:\Users\kafuuchino\Desktop\SkyServer\SkyServer\obj\Release\SkyServer.FrmServer.resources
+C:\Users\kafuuchino\Desktop\SkyServer\SkyServer\obj\Release\SkyServer.Properties.Resources.resources
+C:\Users\kafuuchino\Desktop\SkyServer\SkyServer\obj\Release\SkyServer.csproj.GenerateResource.cache
+C:\Users\kafuuchino\Desktop\SkyServer\SkyServer\obj\Release\SkyServer.csproj.CoreCompileInputs.cache
+C:\Users\kafuuchino\Desktop\SkyServer\SkyServer\obj\Release\SkyServer.exe
+C:\Users\kafuuchino\Desktop\SkyServer\SkyServer\obj\Release\SkyServer.pdb

@@ -1,0 +1,17 @@
+C:\Users\kafuuchino\Desktop\SkyClient\SkyClient\bin\Debug\SkyClient.exe.config
+C:\Users\kafuuchino\Desktop\SkyClient\SkyClient\bin\Debug\SkyClient.exe
+C:\Users\kafuuchino\Desktop\SkyClient\SkyClient\bin\Debug\SkyClient.pdb
+C:\Users\kafuuchino\Desktop\SkyClient\SkyClient\obj\Debug\SkyClient.FrmClient.resources
+C:\Users\kafuuchino\Desktop\SkyClient\SkyClient\obj\Debug\SkyClient.Properties.Resources.resources
+C:\Users\kafuuchino\Desktop\SkyClient\SkyClient\obj\Debug\SkyClient.csproj.GenerateResource.cache
+C:\Users\kafuuchino\Desktop\SkyClient\SkyClient\obj\Debug\SkyClient.csproj.CoreCompileInputs.cache
+C:\Users\kafuuchino\Desktop\SkyClient\SkyClient\obj\Debug\SkyClient.exe
+C:\Users\kafuuchino\Desktop\SkyClient\SkyClient\obj\Debug\SkyClient.pdb
+E:\CSharp\Tcp&ip\SkyClient\SkyClient\bin\Debug\SkyClient.exe.config
+E:\CSharp\Tcp&ip\SkyClient\SkyClient\bin\Debug\SkyClient.exe
+E:\CSharp\Tcp&ip\SkyClient\SkyClient\bin\Debug\SkyClient.pdb
+E:\CSharp\Tcp&ip\SkyClient\SkyClient\obj\Debug\SkyClient.FrmClient.resources
+E:\CSharp\Tcp&ip\SkyClient\SkyClient\obj\Debug\SkyClient.Properties.Resources.resources
+E:\CSharp\Tcp&ip\SkyClient\SkyClient\obj\Debug\SkyClient.csproj.GenerateResource.cache
+E:\CSharp\Tcp&ip\SkyClient\SkyClient\obj\Debug\SkyClient.exe
+E:\CSharp\Tcp&ip\SkyClient\SkyClient\obj\Debug\SkyClient.pdb
